@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+    font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+}
+
+/* header */
+.header_container {
+    background-color: #e9eefb;
+    display: flex;
+    justify-content: center;
+}
+
+.header_container .title {
+    padding: 3%;
+}
+
+/* news */
