@@ -22,3 +22,37 @@ body {
 }
 
 /* news */
+.main_container {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box {
+    background-color:  #c7e0f4 ;
+    height: 100%;
+    border: 0.3px solid black;
+    border-radius: 1%;
+    padding: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 50%;
+    padding-bottom: 3%;
+}
+
+h2{
+    text-align: center;
+}
+p {
+    text-align: left;
+}
+h4 {
+    text-align: right;
+    margin-bottom: 5%;
+
+}
+
+span {
+    color: green;
+}
